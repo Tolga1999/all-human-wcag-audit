@@ -3,7 +3,7 @@
 
 # WCAG Audit 
 
-## Titel Website
+## Titel website
 
 Ik heb een WCAG test gedaan op de website nos.nl, nos.nl is een nieuws website van de overheid.
 
