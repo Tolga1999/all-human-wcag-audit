@@ -3,19 +3,16 @@
 
 # WCAG Audit 
 
-Doe een WCAG test op een bestaande website en rapporteer daar over.
-
 ## Titel Website
 
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
+Ik heb een WCAG test gedaan op de site nos.nl. Nos.nl is een nieuws website van de overheid zelf.
 
-Toon een screenshot van het Lighthouse Accessibility test resultaat.
+![image](https://user-images.githubusercontent.com/112855878/198570249-9d7a5417-7481-4ded-982b-50322b366fcd.png)
+
+Nos.nl had de volgende score van Lighthouse:
+
+![image](https://user-images.githubusercontent.com/112855878/198570902-22a57d65-7a76-4e95-8c59-474a3a118f0f.png)
+
 
 Schrijf een een samenvatting van de test bevindingen.
 
-
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
